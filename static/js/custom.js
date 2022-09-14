@@ -206,7 +206,7 @@
                 loop:true,
                 strings: [
                   'accredited Change Practitioner',
-                  'Microsoft Certified Professional'
+                  'accredited Change Practitioner'
                 ],
                 breakLines: false
             }); 
