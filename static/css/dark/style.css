@@ -836,7 +836,12 @@ mark {
 .breadcrumb li a {
   color: #fff;
 }
-
+.center{
+  background-image: url('static/img/image3.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
 /* Buttons
 ---------------------*/
 .px-btn {
@@ -1085,6 +1090,7 @@ body {
 
 .home-banner .home-avatar-in {
   position: relative;
+  background-position: center;
   border-radius: 50% 50% 0% 50%;
   border: 15px solid #fff;
   overflow: hidden;
@@ -1106,6 +1112,7 @@ body {
 
 .home-banner .home-avatar-in img {
   position: absolute;
+  background-position: center;
   top: 0;
   left: 0;
   right: 0;
