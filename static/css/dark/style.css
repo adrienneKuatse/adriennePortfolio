@@ -70,6 +70,13 @@ Primary use:    pxdraft
     background: #011627;
   }
 
+  .centrer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
   .main-header .navbar {
     padding: 0;
   }
@@ -1181,7 +1188,7 @@ body {
   gap: 60px 50px;
   /* row-gap column gap */
   row-gap: 70px;
-  column-gap: 70px;
+  column-gap: 30px;
 
 }
 
